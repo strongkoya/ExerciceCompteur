@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exerciceCompteur</string>
+    <string name="zero">0</string>
+    <string name="btnToast">Toast</string>
+    <string name="btnComptez">Comptez</string>
+    <string name="txtToast">"C'est l'application compteur"</string>
+</resources>
